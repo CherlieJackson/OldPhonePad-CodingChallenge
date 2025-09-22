@@ -43,7 +43,7 @@ Rules:
 
 ## 📌 Code Example
 
-```csharp
+```c#
 using System;
 using System.Text;
 using System.Collections.Generic;
@@ -111,3 +111,4 @@ public class OldPhone
         return result.ToString();
     }
 }
+
